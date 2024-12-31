@@ -1,6 +1,0 @@
-ala
-clean
-turn
-python
-code
-testing
